@@ -1,6 +1,6 @@
 # NavMeshAssignment
 
-**Objective: Create a functioning navmesh surface with an agent that can use it to orient themselves to a destination.**
+**Objective: Create a functioning navmesh surface with an agent that can use it to orient itself to a destination.**
 Steps to complete:
 1. Download the project
 2. Attach the correct components to the correct objects, start with the Environent and the Walkable and Nonwalkable game objects.
