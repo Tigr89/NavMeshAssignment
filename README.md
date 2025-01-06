@@ -1,6 +1,6 @@
 # NavMeshAssignment
 
-Objective: Create a functioning navmesh surface with an agent that can use it to orient themselves to a destination.
+**Objective: Create a functioning navmesh surface with an agent that can use it to orient themselves to a destination.**
 Steps to complete:
 1. Download the project
 2. Attach the correct components to the correct objects, start with the Environent and the Walkable and Nonwalkable game objects.
@@ -10,7 +10,7 @@ Steps to complete:
 6. Attach the script to the WalkingAgent.
 7. Test play! If the WalkingAgent goes to the target by going around the obstacle, you have succeeded!
 
-Bonus assignments: these are additional assignments you can do in whichever order you choose.
+**Bonus assignments: these are additional assignments you can do in whichever order you choose.**
 1. Create a patrol path for the WalkingAgent. Feel free to add more Nonwalkable obstacles as well.
 2. Make it so that the WalkingAgent will go to where you click your cursor.
 3. Give the WalkingAgent controls and create a labyrinth for the player to solve.
