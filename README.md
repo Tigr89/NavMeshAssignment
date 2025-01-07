@@ -4,7 +4,7 @@
 Steps to complete:
 1. Download the project and open it. If it's empty, double click on the SampleScene in the Project tab.
 2. Attach the Navigation Modifier to the objects found under the Environment. Select in the Inspector whether an object should be "walkable" or not. If you do not see these options, click on the checkbox "Override area".
-3. Add a component called "NavigatonCollectSources2D" and click on "Rotate Surface to XY".
+3. Add a component called "NavigatonCollectSources2D" on the NavMesh and click on "Rotate Surface to XY".
 4. Bake the NavMesh. Click on the game object called "NavMeshSurface" and check the inspector.
 5. Attach a NavMeshAgent component to the WalkingAgent.
 6. Open the WalkingAgentScript in the project folder.
