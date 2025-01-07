@@ -4,12 +4,13 @@
 Steps to complete:
 1. Download the project and open it. If it's empty, double click on the SampleScene in the Project tab.
 2. Attach the Navigation Modifier to the objects found under the Environment. Select in the Inspector whether an object should be "walkable" or not. If you do not see these options, click on the checkbox "Override area".
-3. Bake the NavMesh. Click on the game object called "NavMeshSurface" and check the inspector.
-4. Attach a NavMeshAgent component to the WalkingAgent.
-5. Open the WalkingAgentScript in the project folder.
-6. Complete the script by following the comments.
-7. Attach the script to the WalkingAgent.
-8. Test play! If the WalkingAgent goes to the target by going around the obstacle, you have succeeded!
+3. Add a component called "NavigatonCollectSources2D" and click on "Rotate Surface to XY".
+4. Bake the NavMesh. Click on the game object called "NavMeshSurface" and check the inspector.
+5. Attach a NavMeshAgent component to the WalkingAgent.
+6. Open the WalkingAgentScript in the project folder.
+7. Complete the script by following the comments.
+8. Attach the script to the WalkingAgent.
+9. Test play! If the WalkingAgent goes to the target by going around the obstacle, you have succeeded!
 
 **Bonus assignments: these are additional assignments you can do in whichever order you choose.**
 1. Create a patrol path for the WalkingAgent. Feel free to add more Nonwalkable obstacles as well.
