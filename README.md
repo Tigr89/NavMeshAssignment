@@ -3,7 +3,7 @@
 **Objective: Create a functioning navmesh surface with an agent that can use it to orient itself to a destination.**
 Steps to complete:
 1. Download the project and open it. If it's empty, double click on the SampleScene in the Project tab.
-2. Attach the Navigation Modifier to the objects found under the Environment. Select in the Inspector whether an object should be "walkable" or not.
+2. Attach the Navigation Modifier to the objects found under the Environment. Select in the Inspector whether an object should be "walkable" or not. If you do not see these options, click on the checkbox "Override area".
 3. Bake the NavMesh. Click on the game object called "NavMeshSurface" and check the inspector.
 4. Attach a NavMeshAgent component to the WalkingAgent.
 5. Open the WalkingAgentScript in the project folder.
